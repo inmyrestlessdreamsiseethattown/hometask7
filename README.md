@@ -24,7 +24,7 @@
 
 ## Блок-схема
 
-![Блок-схема](https://github.com/inmyrestlessdreamsiseethattown/hometask7/blob/main/block_scheme.png.drawio)
+![Блок-схема](https://github.com/inmyrestlessdreamsiseethattown/hometask7/blob/main/block_scheme.drawio(1).png)
 
 ## Код программы
 

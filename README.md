@@ -24,7 +24,7 @@
 
 ## Блок-схема
 
-![Блок-схема](block_scheme.png)
+![Блок-схема](block_scheme.png.drawio)
 
 ## Код программы
 
